@@ -91,10 +91,4 @@ See LICENSE for details.
 🌟 Star this repo if you find it useful!
 ---
 
-### How to Use This README:
-1. Replace `YourUsername` with your GitHub username.
-2. Add actual screenshot URLs (e.g., via GitHub Issues or a `/screenshots` folder).
-3. Update the **Releases** link once you publish the `.xpi` file.
-4. Customize the **Acknowledgements** section if needed.
 
-For emojis, GitHub uses [GitHub Markdown Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet). 😊   
