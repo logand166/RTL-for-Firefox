@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html dir="rtl">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="styles/options.css">
+  </head>
+  <body>
+    <div class="container">
+      <h1>الإعدادات ⚙️</h1>
+      
+      <div class="section">
+        <label>المواقع المستثناة (مفصولة بفاصلة):</label>
+        <textarea id="excludedSites" rows="4"></textarea>
+      </div>
+
+      <div class="section">
+        <label>
+          <input type="checkbox" id="changeBrowserUI">
+          تغيير اتجاه واجهة Firefox نفسها
+        </label>
+      </div>
+
+      <button id="save">حفظ الإعدادات</button>
+    </div>
+    <script src="options.js"></script>
+  </body>
+</html>
