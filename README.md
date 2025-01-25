@@ -34,9 +34,9 @@
 🖥️ Usage
 
     Click the add-on icon in Firefox’s toolbar.
-    Popup Demo ![image](https://github.com/user-attachments/assets/f3ceff01-43e7-4949-b6b0-86aa52181fe9)
+    Popup Demo 
 
-
+![image](https://github.com/logand166/RTL-for-Firefox/blob/main/Screenshot.jpg?raw=true)
 
 
     Choose an option:
