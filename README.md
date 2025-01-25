@@ -34,7 +34,8 @@
 🖥️ Usage
 
     Click the add-on icon in Firefox’s toolbar.
-    Popup Demo !![image](https://github.com/user-attachments/assets/aef4204b-aba1-47f2-bb34-0d23688e649e)
+    Popup Demo ![image](https://github.com/user-attachments/assets/f3ceff01-43e7-4949-b6b0-86aa52181fe9)
+
 
 
 
