@@ -1,0 +1,21 @@
+/* styles/options.css */
+.container {
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .section {
+    margin: 20px 0;
+  }
+  
+  textarea {
+    width: 100%;
+    margin-top: 5px;
+  }
+  
+  #save {
+    background: #28a745;
+    color: white;
+    padding: 10px 20px;
+  }
