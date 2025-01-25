@@ -20,7 +20,7 @@
 ### Method 1: Load Temporarily (Development)
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/rtl-toggle-pro.git
+   git clone https://github.com/logand166/rtl-toggle-pro.git
 2. Open Firefox and go to about:debugging.
 3. Click "This Firefox" → "Load Temporary Add-on".
 4. Select the manifest.json file from the cloned folder.
